@@ -70,12 +70,13 @@
 
 
             </LinearLayout>
-<view
-    android:layout_width="1dp"
-    android:layout_height="match_parent"
-    android:background="@android:color/background_dark">
 
-</view>
+        <View
+            android:layout_width="2dp"
+            android:layout_height="396dp"
+            android:background="@android:color/background_dark">
+
+        </View>
 
             <LinearLayout
 
